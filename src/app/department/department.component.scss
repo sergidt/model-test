@@ -1,0 +1,10 @@
+:host {
+  border-radius: 20px;
+  padding: 30px;
+  border: solid 1px red;
+
+  .text{
+    display: flex;
+    flex-flow: column;
+  }
+}
